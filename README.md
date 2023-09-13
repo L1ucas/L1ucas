@@ -8,11 +8,12 @@
 - A bit of VIM and Emacs
 - HTML
 - Javascript
+- Rust
 
 ### Things I want to know
 
 - React
-- Rust
 - Typescript
 - Go 
-
+- C
+- Assembly
