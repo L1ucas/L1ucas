@@ -1,6 +1,4 @@
-# L1ucas
-
-## Programming is cool, coding is not
+# Pedro Lucas
 
 ### Things I know
 
@@ -9,12 +7,12 @@
 - HTML
 - Javascript
 - Rust
+- C
 
 ### Things I want to know
 
 - React
 - Typescript
 - Go 
-- C
 - Assembly
 - Common Lisp
